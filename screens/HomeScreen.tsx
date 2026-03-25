@@ -5,11 +5,11 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 
 const tipsArray: string[] = [
-  "Organize sua mesa de trabalho no final do dia. O seu 'eu' do amanhã vai agradecer.",
-  "Beba um copo de água assim que acordar para reidratar o corpo e despertar o cérebro.",
-  "Antes de comprar algo por impulso, espere 24 horas. Na maioria das vezes, a vontade passa.",
-  "Faça pausas regulares durante o trabalho para evitar a fadiga mental e melhorar o foco.",
-  "Anote suas três principais tarefas do dia logo pela manhã para manter a produtividade."
+  "Organize sua mesa de trabalho.",
+  "Beba um copo de água assim que acordar para reidratar.",
+  "Antes de comprar algo por impulso, Tenha certeza que é necessario.",
+  "Faça pausas regulares durante o trabalho.",
+  "Anote suas taferas diarias."
 ];
 
 export default function HomeScreen() {
